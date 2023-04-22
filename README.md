@@ -1,9 +1,9 @@
 # Chat App
 
-This is a chat app created using Chat Engine.
+This is a chat app created using **Chat Engine**.
 
 I did this project just to get familiar with the Chat Engine.
 
-No design, only functionality.
+No design, Only **Functionality**.
 
-Thank You!
+**Thank You!**
