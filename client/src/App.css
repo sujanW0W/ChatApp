@@ -1,0 +1,46 @@
+.loginDiv{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 25vh;
+  align-items: center;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,103,1) 34%, rgba(0,212,255,1) 100%);
+}
+
+h1{
+  text-align: center;
+}
+
+.inputBox{
+  width: 400px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin: 10px;
+  padding:  20px ;
+  border: 2px solid #595959;
+  border-radius: 10px;
+
+  
+}
+#inputUserName{
+  width: 75%;
+  font-size: 15px;
+  padding: 5px;
+}
+
+#inputPassword{
+  width: 75%;
+  font-size: 15px;
+  padding: 5px;
+}
+
+button{
+  font-size: 20px;
+}
+
